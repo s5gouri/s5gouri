@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack projects.<br>👯 I’m looking to collaborate on some big full-stack projects.<br>🤝 I’m looking for help with Web 3<br>🌱 I’m currently learning blockchain world.<br>💬 Ask me about anything u can😉<br>
+🔭 Currently working on full-stack projects.<br>👯 Looking to collaborate on some big full-stack projects.<br>🌱 Learning about blockchain world.<br>💬 Ask me about anything u can😉<br>
 
 
 ## 🌐 Socials:
